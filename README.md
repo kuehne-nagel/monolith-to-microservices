@@ -9,5 +9,6 @@ In diesem Vortrag von Björn Kimminich ([@bkimminich](https://github.com/bkimmin
 ## Talk History
 
 * [iteratec Workshop Hamburg](http://lanyrd.com/2015/iteratec/) - IT-Engineering in der Praxis, 17. Juni 2015
-* Capgemini [8. Kundenforum Architektur](http://lanyrd.com/2015/capgeminide/), 19. November 2015
+* Capgemini [8. Kundenforum Architektur](http://lanyrd.com/2015/capgeminide/), Hamburg, 19. November 2015
 * [Microservices Meetup Hamburg](http://lanyrd.com/2015/microservices-meetup-hamburg-der-steinige-weg-vo-2/), 24. November 2015
+* [User Group "Softwarearchitektur und Softwareentwicklung"](http://lanyrd.com/2016/softwareforen/) - Microservice-Architekturen und Continuous Delivery, Leipzig, 12./13. April 2016
