@@ -18,3 +18,4 @@ In diesem Vortrag von Björn Kimminich gibt es keine "So wird's gemacht!"-One-Si
 * Capgemini [8. Kundenforum Architektur](http://lanyrd.com/2015/capgeminide/), Hamburg, 19. November 2015
 * [Microservices Meetup Hamburg](http://lanyrd.com/2015/microservices-meetup-hamburg-der-steinige-weg-vo-2/), 24. November 2015
 * [User Group "Softwarearchitektur und Softwareentwicklung"](http://lanyrd.com/2016/softwareforen/) - Microservice-Architekturen und Continuous Delivery, Leipzig, 12./13. April 2016
+* [SEACON 2016](http://lanyrd.com/2016/seacon/), Hamburg 12./13. Mai 2016
