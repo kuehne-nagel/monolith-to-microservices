@@ -1,8 +1,10 @@
-# [From Monolith to Microservices](http://kuehne-nagel.github.io/monolith-to-microservices)
+# [The rocky road from Monolith to Microservices](http://kuehne-nagel.github.io/monolith-to-microservices)
 
-**TODO** *Add english translation of abstract*
+It is not exactly a rewarding task to extend and maintain a web application historically grown over 10 years. Splitting this monolithic application into wieldy microservices sounds like a promising alternative. If said web application is already clustered into functional components and technical layers, it cannot be that hard to extract parts and refactor them into independent applications. As experience shows, this way is rocky nonetheless.
 
-> Björn Kimminich is working in the area of software development for Kuehne + Nagel for over 8 years where he is now responsible for Global IT Architecture. He is a member of the nonprofit Open Web Application Security Project (OWASP) and authored the intentionally insecure web application [Juice Shop](https://github.com/bkimminich/juice-shop), which can be used to learn security vulnerabilities of the web. As a side job he lectures software development at the UAS Nordakademie where he teaches Java to engineering students as their first programming language.
+In this talk by Bjoern Kimminich you will not find any "Just do it like that!"-one-size-fits-all-advice and it also does not tell a "No problem!"-happy-path-success-story. But it will hopefully initiate an active discussion about the possibilities and limitations of the decomposition of legacy software!
+
+> Bjoern Kimminich is working in the area of software development for Kuehne + Nagel for over 8 years where he is now responsible for Global IT Architecture. He is a member of the nonprofit Open Web Application Security Project (OWASP) and authored the intentionally insecure web application [Juice Shop](https://github.com/bkimminich/juice-shop), which can be used to learn security vulnerabilities of the web. As a side job he lectures software development at the UAS Nordakademie where he teaches Java to engineering students as their first programming language.
 
 # [Der steinige Weg vom Monolithen in Richtung Microservices](http://kuehne-nagel.github.io/monolith-to-microservices)
 
